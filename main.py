@@ -66,5 +66,6 @@ for teamId in file:
 
 
 fileOutput.close() 
-file.close() 
+file.close()
+fileLogin.close() 
 print("export successful!")
